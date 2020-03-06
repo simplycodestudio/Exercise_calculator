@@ -1,0 +1,4 @@
+add AddOperation
+subtract SubtractOperation
+multiply MultiplyOperation
+divide DivideOperation

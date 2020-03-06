@@ -1,0 +1,3 @@
+multiply 6
+divide 2
+apply 8

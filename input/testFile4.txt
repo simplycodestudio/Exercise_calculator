@@ -1,0 +1,5 @@
+add 10
+subtract 5
+multiply 6
+divide 2
+apply 10
