@@ -1,6 +1,6 @@
-##Calculator Task: JAVA
+## Calculator Task: JAVA
 
-##Guidelines:
+## Guidelines:
 Write some code to calculate a result from a set of instructions.
 Instructions comprise of a keyword and a number that are separated by a space per
 line. Instructions are loaded from file and results are output to the screen. Any number
@@ -11,7 +11,7 @@ calculator is then initialised with that number and the previous instructions ar
 to that number.
 This project is an implementation of a coding exercise, used in a hiring process. It should give a feedback for interested candidates, how the "nearly ideal" solution should look like.
 
-##Description:
+## Description:
 
 
 + Project include Java 1.8 with Maven.
@@ -25,7 +25,7 @@ This project is an implementation of a coding exercise, used in a hiring process
   
 + The code was created using an abstraction layer to increase the level od losely coupling
 
-##Test case
+## Test case
  Code does not have a runtime layer in physical form. 
  Dependencies are merged and run during 9 short unit tests (4 of the tests are physical calculations: CalculatorControllerTest)
 
@@ -49,11 +49,10 @@ Test case no.4:
 10 + (10 - 5) * 6 / 2 = 45
 ```
 
-##Executing
+## Executing
 
 simply test passing: `mvn test`
 
-`gradle run`
 
 The best way for check corectness of implementation is running each test separately.
 In case of preferred way of displaying the results, I can create a shell script to print result on screen.
