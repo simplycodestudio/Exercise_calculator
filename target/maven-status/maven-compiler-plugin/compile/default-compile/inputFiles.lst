@@ -1,0 +1,14 @@
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/calculation_steps/CalculatingStepsContract.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/common/CommonSplitter.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/factory/ArithmeticsOperations.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/calculation_steps/CalculatingSteps.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/factory/ArithmeticOperationContract.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/calculation_steps/Step.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/calculation_steps/CalculatingStepInitializer.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/ArithmeticOperation.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/DivideOperation.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/MultiplyOperation.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/SubtractOperation.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/controller/CalculatorController.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/factory/ArithmeticOperationsInitializer.java
+/home/jacek/eclipse-workspace/calculatorTask/src/main/java/arithmeticOperation/AddOperation.java

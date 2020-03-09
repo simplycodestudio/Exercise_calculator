@@ -1,6 +1,7 @@
 ##Calculator Task: JAVA
 
 ##Guidelines:
+
 Write some code to calculate a result from a set of instructions.
 Instructions comprise of a keyword and a number that are separated by a space per
 line. Instructions are loaded from file and results are output to the screen. Any number
@@ -52,8 +53,6 @@ Test case no.4:
 ##Executing
 
 simply test passing: `mvn test`
-
-`gradle run`
 
 The best way for check corectness of implementation is running each test separately.
 In case of preferred way of displaying the results, I can create a shell script to print result on screen.
